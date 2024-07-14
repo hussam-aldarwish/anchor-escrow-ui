@@ -2,11 +2,15 @@
 
 This is a creative escrow system built using Next.js 14 and TypeScript, integrated with the Anchor Escrow contract.
 
+## Demo
+
+Check out the demo of the Anchor Escrow program [here](https://anchor-escrow-ui.vercel.app/).
+
 ## Features
 
 - Create an escrow
-- Refund an escrow (Pending)
-- Take from an escrow (Pending)
+- Refund an escrow (TODO)
+- Take from an escrow (TODO)
 
 ## Setup
 
